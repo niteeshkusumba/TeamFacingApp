@@ -1,5 +1,3 @@
-# angular2-registration-login-example
+# angular2-registration-login
 
-Angular 2/5 User Registration and Login Example & Tutorial
-
-To see a demo and further details go to http://jasonwatmore.com/post/2016/09/29/angular-2-user-registration-and-login-example-tutorial
+Code was re-generated not my resource any problem Please leave me a message and allow me sometime, I will work on it.
