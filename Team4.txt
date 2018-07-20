@@ -1,0 +1,14 @@
+Team 4:
+     Scrum Master:
+             Kishore -
+     Team Lead:
+             Niteesh (Team Member facing Application) - niteeshkusumba.java@gmail.com
+             Arpita (Team Member facing Application+ Middleware integration) -arpitha.cheri@gmail.com
+     Developers:
+             Harsha -
+             Deepthi - chandrika.java87@gmail.com
+             Somesh - somesh.cipher@gmail.com
+             Chaitanya -
+             Nagarjuna -nagreddy.mr@gmail.com
+             Charan - charansai498@gmail.com
+             Sai Krishna -
